@@ -9,7 +9,7 @@ const pageNotFound = () => {
 				<div className="not-fund">
 					<Image
 						className="home-image"
-						src={require("./../public/test.gif").default}
+						src={require("./../public/test.gif")}
 						alt="Picture of cat and dog"
 					/>
 					<h1>404</h1>
