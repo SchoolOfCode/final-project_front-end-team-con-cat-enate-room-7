@@ -171,9 +171,9 @@ To run the front-end locally follow the steps below:
 
 | Color      | Hex                                                              |
 | ---------- | ---------------------------------------------------------------- |
-| Main       | ![#448FFF](https://via.placeholder.com/10/448FFF.png) `#448FFF` |
-| secondary  | ![#B2D1FF](https://via.placeholder.com/10/B2D1FF.png)`#B2D1FF`  |
-| Background | ![#fff](https://via.placeholder.com/10/fff.png) `#fff`          |
+| Main       | ![#448FFF](https://via.placeholder.com/15/448FFF/448FFF.png) `#448FFF` |
+| secondary  | ![#B2D1FF](https://via.placeholder.com/15/B2D1FF/B2D1FF.png)`#B2D1FF`  |
+| Background | ![#fff](https://via.placeholder.com/15/fff/fff.png) `#fff`          |
 
 
 <br/>
